@@ -1,7 +1,7 @@
-from sklearn.ensemble import RandomForestClassifier
-import pickle
-from sklearn.preprocessing import LabelEncoder
-import numpy as np
+# from sklearn.ensemble import RandomForestClassifier
+# import pickle
+# from sklearn.preprocessing import LabelEncoder
+# import numpy as np
 
 from flask import Flask, request, render_template, jsonify
 from flask_cors import CORS
