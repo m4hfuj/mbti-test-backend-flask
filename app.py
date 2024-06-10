@@ -1,4 +1,4 @@
-from xgboost import XGBClassifier
+from sklearn.ensemble import RandomForestClassifier
 import pickle
 from sklearn.preprocessing import LabelEncoder
 import numpy as np
